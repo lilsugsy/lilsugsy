@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @lilsugsy
-- 👀 I’m interested in creating interactive online experiences
-- 🌱 I’m currently learning Three.js + Blender
+👋 Hi, I’m Reece Sugars, I’m interested in creating interactive online experiences, 🌱 I’m currently learning 🔮 Three.js + 🍩 Blender
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
